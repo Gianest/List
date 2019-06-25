@@ -1,0 +1,7 @@
+c:\users\amikom\source\repos\List\List\bin\Debug\List.exe.config
+c:\users\amikom\source\repos\List\List\bin\Debug\List.exe
+c:\users\amikom\source\repos\List\List\bin\Debug\List.pdb
+c:\users\amikom\source\repos\List\List\obj\Debug\List.csprojAssemblyReference.cache
+c:\users\amikom\source\repos\List\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+c:\users\amikom\source\repos\List\List\obj\Debug\List.exe
+c:\users\amikom\source\repos\List\List\obj\Debug\List.pdb
